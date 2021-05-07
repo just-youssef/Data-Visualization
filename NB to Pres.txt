@@ -1,0 +1,5 @@
+To render the notebook as slides
+--> jupyter nbconvert Slides-Ford-GoBike-System-Data-by-Youssef-Hussein-Ahmed.ipynb --to slides
+
+To hold the code input unless you click on the output
+--> jupyter nbconvert Slides-Ford-GoBike-System-Data-by-Youssef-Hussein-Ahmed.ipynb --to slides --template output-toggle.tpl
