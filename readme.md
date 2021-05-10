@@ -1,8 +1,16 @@
 # (Ford GoBike System Data)
-### by (Youssef Hussein Ahmed)
+
+## Project Purpose
+> This project is divided into two major parts, exploratory and explanatory data analysis of Ford GoBike System dataset.
+
+## Project Details
+> For exploratory analysis, Through employing the use of Python data science and data visualization libraries to explore the dataset’s variables and understand the data structure, oddities, patterns and relationships.
+> For explanatory analysis, Through filtering the main findings from your exploration and convey them to others through an explanatory analysis.
+
+## Project Goal:
+> The end will be through creating a slide deck that leverages polished, explanatory visualizations to communicate your results.
 
 ## Dataset Overview
-
 > This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
 
 ### To clean dataset:
